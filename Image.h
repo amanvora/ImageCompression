@@ -3,6 +3,7 @@
 // Image.h : Defines the class operations on images
 //
 // Author - Parag Havaldar
+// Edited by Aman Vora
 // Main Image class structure 
 //
 //*****************************************************************************
